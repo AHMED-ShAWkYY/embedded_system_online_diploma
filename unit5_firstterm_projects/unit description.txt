@@ -1,3 +1,0 @@
-i have made 2 big projects on c data structure and embedded c
-1-pressure controlling system
-2-project management system using queue
