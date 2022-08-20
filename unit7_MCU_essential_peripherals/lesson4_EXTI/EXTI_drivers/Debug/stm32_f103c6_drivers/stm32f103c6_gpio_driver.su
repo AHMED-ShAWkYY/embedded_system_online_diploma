@@ -1,0 +1,9 @@
+stm32f103c6_gpio_driver.c:8:9:Get_CRLH_Position	16	static
+stm32f103c6_gpio_driver.c:73:7:MCAL_GPIO_INIT	32	static
+stm32f103c6_gpio_driver.c:121:6:MCAL_GPIO_DEINIT	16	static
+stm32f103c6_gpio_driver.c:159:9:MCAL_GPIO_Read_Pin	24	static
+stm32f103c6_gpio_driver.c:180:10:MCAL_GPIO_Read_Port	24	static
+stm32f103c6_gpio_driver.c:194:7:MCAL_GPIO_write_Pin	16	static
+stm32f103c6_gpio_driver.c:213:7:MCAL_GPIO_write_Port	16	static
+stm32f103c6_gpio_driver.c:225:7:MCAL_GPIO_toggle_Pin	16	static
+stm32f103c6_gpio_driver.c:237:9:MCAL_GPIO_lock_Pin	24	static
